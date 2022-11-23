@@ -1,5 +1,6 @@
 #include "main.h"
 
+//code source : https://learn.microsoft.com/en-us/windows/win32/coreaudio/capturing-a-stream
 
 int main() {
 
